@@ -1,0 +1,84 @@
+{
+	"lisans": {
+		"guz": [
+			[
+				["LG1Ders 1", "LG1Ders 2", "LG1Ders 3", "LG1Ders 4", "LG1Ders 5"],
+				["LG1Ders 6", "LG1Ders 7", "LG1Ders 8", "LG1Ders 9", "LG1Ders 10"],
+				["LG1Ders 11", "LG1Ders 12", "LG1Ders 13", "LG1Ders 14", "LG1Ders 15"],
+				["LG1Ders 16", "LG1Ders 17", "LG1Ders 18", "LG1Ders 19", "LG1Ders 20"],
+				["LG1Ders 21", "LG1Ders 22", "LG1Ders 23", "LG1Ders 24", "LG1Ders 25"]					
+			],
+			[
+				["LG2Ders 1", "LG2Ders 2", "LG2Ders 3", "LG2Ders 4", "LG2Ders 5"],
+				["LG2Ders 6", "LG2Ders 7", "LG2Ders 8", "LG2Ders 9", "LG2Ders 10"],
+				["LG2Ders 11", "LG2Ders 12", "LG2Ders 13", "LG2Ders 14", "LG2Ders 15"],
+				["LG2Ders 16", "LG2Ders 17", "LG2Ders 18", "LG2Ders 19", "LG2Ders 20"],
+				["LG2Ders 21", "LG2Ders 22", "LG2Ders 23", "LG2Ders 24", "LG2Ders 25"]	
+			],
+			[
+				["LG3Ders 1", "LG3Ders 2", "LG3Ders 3", "LG3Ders 4", "LG3Ders 5"],
+				["LG3Ders 6", "LG3Ders 7", "LG3Ders 8", "LG3Ders 9", "LG3Ders 10"],
+				["LG3Ders 11", "LG3Ders 12", "LG3Ders 13", "LG3Ders 14", "LG3Ders 15"],
+				["LG3Ders 16", "LG3Ders 17", "LG3Ders 18", "LG3Ders 19", "LG3Ders 20"],
+				["LG3Ders 21", "LG3Ders 22", "LG3Ders 23", "LG3Ders 24", "LG3Ders 25"]	
+			],
+			[
+				["LG4Ders 1", "LG4Ders 2", "LG4Ders 3", "LG4Ders 4", "LG4Ders 5"],
+				["LG4Ders 6", "LG4Ders 7", "LG4Ders 8", "LG4Ders 9", "LG4Ders 10"],
+				["LG4Ders 11", "LG4Ders 12", "LG4Ders 13", "LG4Ders 14", "LG4Ders 15"],
+				["LG4Ders 16", "LG4Ders 17", "LG4Ders 18", "LG4Ders 19", "LG4Ders 20"],
+				["LG4Ders 21", "LG4Ders 22", "LG4Ders 23", "LG4Ders 24", "LG4Ders 25"]	
+			]	
+		],
+		"bahar": [
+			[
+				["LB1Ders 1", "LB1Ders 2", "LB1Ders 3", "LB1Ders 4", "LB1Ders 5"],
+				["LB1Ders 6", "LB1Ders 7", "LB1Ders 8", "LB1Ders 9", "LB1Ders 10"],
+				["LB1Ders 11", "LB1Ders 12", "LB1Ders 13", "LB1Ders 14", "LB1Ders 15"],
+				["LB1Ders 16", "LB1Ders 17", "LB1Ders 18", "LB1Ders 19", "LB1Ders 20"],
+				["LB1Ders 21", "LB1Ders 22", "LB1Ders 23", "LB1Ders 24", "LB1Ders 25"]					
+			],
+			[
+				["LB2Ders 1", "LB2Ders 2", "LB2Ders 3", "LB2Ders 4", "LB2Ders 5"],
+				["LB2Ders 6", "LB2Ders 7", "LB2Ders 8", "LB2Ders 9", "LB2Ders 10"],
+				["LB2Ders 11", "LB2Ders 12", "LB2Ders 13", "LB2Ders 14", "LB2Ders 15"],
+				["LB2Ders 16", "LB2Ders 17", "LB2Ders 18", "LB2Ders 19", "LB2Ders 20"],
+				["LB2Ders 21", "LB2Ders 22", "LB2Ders 23", "LB2Ders 24", "LB2Ders 25"]	
+			],
+			[
+				["LB3Ders 1", "LB3Ders 2", "LB3Ders 3", "LB3Ders 4", "LB3Ders 5"],
+				["LB3Ders 6", "LB3Ders 7", "LB3Ders 8", "LB3Ders 9", "LB3Ders 10"],
+				["LB3Ders 11", "LB3Ders 12", "LB3Ders 13", "LB3Ders 14", "LB3Ders 15"],
+				["LB3Ders 16", "LB3Ders 17", "LB3Ders 18", "LB3Ders 19", "LB3Ders 20"],
+				["LB3Ders 21", "LB3Ders 22", "LB3Ders 23", "LB3Ders 24", "LB3Ders 25"]	
+			],
+			[
+				["LB4Ders 1", "LB4Ders 2", "LB4Ders 3", "LB4Ders 4", "LB4Ders 5"],
+				["LB4Ders 6", "LB4Ders 7", "LB4Ders 8", "LB4Ders 9", "LB4Ders 10"],
+				["LB4Ders 11", "LB4Ders 12", "LB4Ders 13", "LB4Ders 14", "LB4Ders 15"],
+				["LB4Ders 16", "LB4Ders 17", "LB4Ders 18", "LB4Ders 19", "LB4Ders 20"],
+				["LB4Ders 21", "LB4Ders 22", "LB4Ders 23", "LB4Ders 24", "LB4Ders 25"]	
+			]	
+		]
+	},
+	"ylisans": {
+		"guz": [
+			[
+				["YGDers 1", "YGDers 2", "YGDers 3", "YGDers 4", "YGDers 5"],
+				["YGDers 6", "YGDers 7", "YGDers 8", "YGDers 9", "YGDers 10"],
+				["YGDers 11", "YGDers 12", "YGDers 13", "YGDers 14", "YGDers 15"],
+				["YGDers 16", "YGDers 17", "YGDers 18", "YGDers 19", "YGDers 20"],
+				["YGDers 21", "YGDers 22", "YGDers 23", "YGDers 24", "YGDers 25"]	
+			]
+		],
+		"bahar": [
+			[
+				["YBDers 1", "YBDers 2", "YBDers 3", "YBDers 4", "YBDers 5"],
+				["YBDers 6", "YBDers 7", "YBDers 8", "YBDers 9", "YBDers 10"],
+				["YBDers 11", "YBDers 12", "YBDers 13", "YBDers 14", "YBDers 15"],
+				["YBDers 16", "YBDers 17", "YBDers 18", "YBDers 19", "YBDers 20"],
+				["YBDers 21", "YBDers 22", "YBDers 23", "YBDers 24", "YBDers 25"]	
+			]
+		]
+	}
+}

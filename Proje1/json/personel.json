@@ -1,0 +1,128 @@
+{
+	"ogretimUyeleri": [
+		{
+			"foto": "1.jpg",
+			"ad": "Ali",
+			"soyad": "Kaya",
+			"dal": "Matematik"
+		},
+		{
+			"foto": "2.jpg",
+			"ad": "Ahmet",
+			"soyad": "Sari",
+			"dal": "Fizik"
+		},
+		{
+			"foto": "3.jpg",
+			"ad": "Emel",
+			"soyad": "Kanca",
+			"dal": "Mühendis"
+		},
+		{
+			"foto": "4.jpg",
+			"ad": "Semih",
+			"soyad": "Karınca",
+			"dal": "Kimya"
+		},
+		{
+			"foto": "5.jpg",
+			"ad": "Sahra",
+			"soyad": "Sari",
+			"dal": "Fizik"
+		},
+		{
+			"foto": "6.jpg",
+			"ad": "Kayahan",
+			"soyad": "Kanca",
+			"dal": "Mühendis"
+		},
+		{
+			"foto": "7.jpg",
+			"ad": "Melih",
+			"soyad": "Karınca",
+			"dal": "Kimya"
+		}
+	],
+	"akademikYardimci": [
+		{
+			"foto": "8.jpg",
+			"ad": "Veli",
+			"soyad": "Kaya",
+			"dal": "Matematik"
+		},
+		{
+			"foto": "9.jpg",
+			"ad": "Sahra",
+			"soyad": "Sari",
+			"dal": "Fizik"
+		},
+		{
+			"foto": "10.jpg",
+			"ad": "Kayahan",
+			"soyad": "Kanca",
+			"dal": "Mühendis"
+		},
+		{
+			"foto": "11.jpg",
+			"ad": "Melih",
+			"soyad": "Karınca",
+			"dal": "Kimya"
+		}
+	],
+	"idariTeknik": [
+		{
+			"foto": "12.jpg",
+			"ad": "Ali",
+			"soyad": "Kaya",
+			"dal": "Matematik"
+		},
+		{
+			"foto": "13.jpg",
+			"ad": "Ahmet",
+			"soyad": "Sari",
+			"dal": "Fizik"
+		},
+		{
+			"foto": "14.jpg",
+			"ad": "Emel",
+			"soyad": "Metin",
+			"dal": "Mühendis"
+		},
+		{
+			"foto": "15.jpg",
+			"ad": "Semih",
+			"soyad": "Cengiz",
+			"dal": "Kimya"
+		},
+		{
+			"foto": "16.jpg",
+			"ad": "Aslan",
+			"soyad": "Ulu",
+			"dal": "Bankacılık"
+		},
+		{
+			"foto": "17.jpg",
+			"ad": "Saliha",
+			"soyad": "Kerim",
+			"dal": "İstatistik"
+		},
+		{
+			"foto": "18.jpg",
+			"ad": "Salih",
+			"soyad": "Şeker",
+			"dal": "Software"
+		},
+		{
+			"foto": "19.jpg",
+			"ad": "Nail",
+			"soyad": "Orta",
+			"dal": "Mühendis"
+		},
+		{
+			"foto": "20.jpg",
+			"ad": "Kerim",
+			"soyad": "Pasta",
+			"dal": "Test"
+		}
+	]
+}
